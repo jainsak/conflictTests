@@ -1,5 +1,5 @@
-kfhslkdf
-jsdfskldjfk
-kjldfkjooll
-System
-System.out.print("Cognizant");
+class HelloWorld{
+	public static void main(String []args){
+		System.out.println("Changes from another System with Fork!");
+	}	
+}	
